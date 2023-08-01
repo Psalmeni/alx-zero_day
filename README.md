@@ -1,1 +1,1 @@
-My first readme
+ICAN exam is simple
